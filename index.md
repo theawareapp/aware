@@ -17,4 +17,4 @@ Work towards #ABetterYou - focus on yourself, prioritize yourself, grow yourself
    </div>
     
 
-Questions/Comments: <a href="theawareapp@gmail.com">Email Us!</a>
+Questions/Comments: <a href="mailto:theawareapp@gmail.com">Email Us!</a>
