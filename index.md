@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to The Aware App
 
-You can use the [editor on GitHub](https://github.com/theawareapp/aware/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An app that helps you connect with your family and friends to better understand where you are doing well and what are areas of development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You ultimately get to decide what to work on. Getting an external perspective from people who want nothing but the best for you will help see what you may chose to ignore.
 
-### Markdown
+Work towards #ABetterYou - focus on yourself, prioritize yourself, grow yourself.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+{% include youtubePlayer.html id="GvNaq5lhesE" %}
 
 # Header 1
 ## Header 2
