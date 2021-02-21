@@ -11,7 +11,7 @@ Work towards #ABetterYou - focus on yourself, prioritize yourself, grow yourself
     <div class="column-5 w-col w-col-4">
         <h2 class="heading-2 video">Learn more about Aware.</h2>
      <div style="padding-top:3%" class="w-video w-embed">
-       <iframe width="560" height="315" src="https://youtu.be/z4rxH5CT0-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/z4rxH5CT0-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
    </div>
    </div>
