@@ -21,6 +21,6 @@ Download Aware from:
     <img width=150" height="70" src="1*V9-OPWpauGEi-JMp05RC_A.png">                                                                      
 </a>
                                                                   
- <img width=150" height="70" src="1*V9-OPWpauGEi-JMp05RC_A.png" alt="Me"> 
+ <img width=150" height="70" src="./1*V9-OPWpauGEi-JMp05RC_A.png" alt="Me"> 
 
 Questions/Comments: <a href="mailto:theawareapp@gmail.com">Email Us!</a>
