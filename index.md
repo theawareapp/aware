@@ -17,8 +17,10 @@ Work towards #ABetterYou - focus on yourself, prioritize yourself, grow yourself
    </div>
     
 Download Aware from:
-<a href="https://apps.apple.com/us/app/the-aware-app/id1458912590">
-         <img src="1*V9-OPWpauGEi-JMp05RC_A.png" width=150" height="70">
-      </a>
+<a href="https://apps.apple.com/us/app/the-aware-app/id1458912590">  
+    <p align="center" width="100%">
+    <img width=150" height="70" src="1*V9-OPWpauGEi-JMp05RC_A.png"> 
+    </p>                                                                       
+</a>
 
 Questions/Comments: <a href="mailto:theawareapp@gmail.com">Email Us!</a>
