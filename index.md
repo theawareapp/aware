@@ -21,7 +21,7 @@ Download Aware from:
     <img src="images/logo.png" width=150" height="70">
 </a>
                                                                   
-   <img src="images/logo.png" width=150" height="70">
+<a> <img src="images/logo.png" width=150" height="70"> </a>
 
     
 
